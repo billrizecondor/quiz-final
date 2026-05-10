@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Orange mobile shopping app picture clue">
+  <rect width="1200" height="720" fill="#fff1e8"/>
+  <rect x="402" y="70" width="396" height="580" rx="48" fill="#1d2939"/>
+  <rect x="432" y="112" width="336" height="496" rx="28" fill="#ff6a21"/>
+  <path d="M500 295h200l-22 190H522z" fill="#ffffff"/>
+  <path d="M535 295c0-66 31-106 65-106s65 40 65 106" fill="none" stroke="#ffffff" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="848" cy="170" r="58" fill="#ffd166"/>
+  <text x="848" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="900" fill="#ff6a21">SALE</text>
+  <rect x="210" y="392" width="150" height="72" rx="18" fill="#ffd166"/>
+  <rect x="842" y="392" width="150" height="72" rx="18" fill="#ffd166"/>
+  <text x="600" y="675" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#ff6a21">orange shopping bag app + sale tags</text>
+</svg>

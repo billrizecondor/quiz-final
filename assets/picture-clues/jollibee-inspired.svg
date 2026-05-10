@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Red and yellow Filipino fast food picture clue">
+  <rect width="1200" height="720" fill="#fff3cf"/>
+  <rect y="455" width="1200" height="265" fill="#cf1f2c"/>
+  <rect x="90" y="95" width="1020" height="480" rx="38" fill="#ffffff"/>
+  <rect x="90" y="95" width="1020" height="120" rx="38" fill="#e2232f"/>
+  <circle cx="595" cy="325" r="112" fill="#f9c74f"/>
+  <circle cx="560" cy="300" r="14" fill="#242424"/>
+  <circle cx="635" cy="300" r="14" fill="#242424"/>
+  <path d="M545 354c35 38 77 38 112 0" fill="none" stroke="#242424" stroke-width="16" stroke-linecap="round"/>
+  <path d="M500 235c-30-46-10-92 36-108 34-12 70 2 91 33 22-30 60-43 93-28 44 20 56 67 23 108" fill="#e2232f"/>
+  <rect x="210" y="390" width="210" height="90" rx="18" fill="#f9c74f"/>
+  <path d="M235 390h160l-30-60h-100z" fill="#d62828"/>
+  <circle cx="315" cy="470" r="30" fill="#7a3e12"/>
+  <rect x="765" y="360" width="190" height="130" rx="26" fill="#ffd166"/>
+  <path d="M790 360c14-48 126-48 140 0" fill="#d62828"/>
+  <path d="M790 405h140" stroke="#ffffff" stroke-width="13" stroke-linecap="round"/>
+  <text x="600" y="645" text-anchor="middle" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">red + yellow bee mascot fast food</text>
+</svg>

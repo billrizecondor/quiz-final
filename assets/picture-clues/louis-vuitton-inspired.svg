@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Brown luxury trunk picture clue">
+  <rect width="1200" height="720" fill="#ead8bd"/>
+  <rect x="175" y="165" width="850" height="390" rx="34" fill="#6b4423"/>
+  <rect x="215" y="205" width="770" height="310" rx="20" fill="#7a4b27"/>
+  <rect x="265" y="165" width="70" height="390" fill="#3d2516"/>
+  <rect x="865" y="165" width="70" height="390" fill="#3d2516"/>
+  <rect x="175" y="315" width="850" height="70" fill="#3d2516"/>
+  <g fill="none" stroke="#d8b678" stroke-width="10" opacity="0.9">
+    <path d="M420 248l28 28-28 28-28-28z"/>
+    <path d="M590 248l28 28-28 28-28-28z"/>
+    <path d="M760 248l28 28-28 28-28-28z"/>
+    <path d="M505 430l28 28-28 28-28-28z"/>
+    <path d="M675 430l28 28-28 28-28-28z"/>
+  </g>
+  <g fill="#d8b678" opacity="0.95">
+    <circle cx="505" cy="276" r="13"/>
+    <circle cx="675" cy="276" r="13"/>
+    <circle cx="845" cy="276" r="13"/>
+    <circle cx="420" cy="458" r="13"/>
+    <circle cx="590" cy="458" r="13"/>
+    <circle cx="760" cy="458" r="13"/>
+  </g>
+  <rect x="540" y="326" width="120" height="50" rx="12" fill="#d8b678"/>
+  <text x="600" y="648" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#3d2516">brown luxury travel trunk + monogram pattern</text>
+</svg>

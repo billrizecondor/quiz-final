@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Red and yellow burger restaurant picture clue">
+  <rect width="1200" height="720" fill="#ffefb0"/>
+  <rect y="455" width="1200" height="265" fill="#b81424"/>
+  <rect x="145" y="155" width="910" height="390" rx="36" fill="#d8202f"/>
+  <rect x="210" y="300" width="780" height="245" fill="#f4f4f4"/>
+  <path d="M385 475V300c0-90 52-150 115-150s115 60 115 150v175" fill="none" stroke="#ffc72c" stroke-width="62" stroke-linecap="round"/>
+  <path d="M585 475V300c0-90 52-150 115-150s115 60 115 150v175" fill="none" stroke="#ffc72c" stroke-width="62" stroke-linecap="round"/>
+  <ellipse cx="600" cy="575" rx="245" ry="54" fill="#7a2d12"/>
+  <rect x="380" y="532" width="440" height="58" rx="29" fill="#ffcc4d"/>
+  <rect x="410" y="500" width="380" height="48" rx="24" fill="#5a2d14"/>
+  <text x="600" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">red burger place + golden arches</text>
+</svg>

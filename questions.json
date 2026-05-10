@@ -1,0 +1,244 @@
+﻿{
+    "title":  "Championship Board",
+    "teams":  [
+                  {
+                      "name":  "Team Alpha",
+                      "score":  0
+                  },
+                  {
+                      "name":  "Team Bravo",
+                      "score":  0
+                  },
+                  {
+                      "name":  "Team Charlie",
+                      "score":  0
+                  }
+              ],
+    "categories":  [
+                       {
+                           "name":  "1k per Pop Culture",
+                           "clues":  [
+                                         {
+                                             "points":  100,
+                                             "question":  "Which P-pop girl group is known for hits like \"Pantropiko\" and is often called the Nation\u0027s Girl Group?",
+                                             "answer":  "BINI",
+                                             "image":  "",
+                                             "trivia":  "BINI\u0027s rise helped push P-pop even more into mainstream Filipino student playlists.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  200,
+                                             "question":  "What is the new name of former child star Aiza Seguerra?",
+                                             "answer":  "Ice",
+                                             "image":  "",
+                                             "trivia":  "Ice is a successful musician and first became famous after winning Little Miss Philippines.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  300,
+                                             "question":  "What viral 2025 Filipino meme phrase came from an old It\u0027s Showtime Kalokalike impersonation of Jacob Black from Twilight?",
+                                             "answer":  "What hafen Vella?",
+                                             "image":  "",
+                                             "trivia":  "The clip resurfaced years later and became a meme across Filipino social feeds.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  400,
+                                             "question":  "What controversial line is used by China to claim a large part of the South China Sea?",
+                                             "answer":  "Nine-dash line",
+                                             "image":  "",
+                                             "trivia":  "In 2016, an international tribunal ruled that China�s nine-dash line claim had no legal basis under international law.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  500,
+                                             "question":  "Which former SexBomb Girl is married to Alvin Aragon, whose comments about the SexBomb reunion became a viral online issue in 2026?",
+                                             "answer":  "Izzy",
+                                             "image":  "",
+                                             "trivia":  "Alvin Aragon said Izzy left SexBomb after becoming Christian, sparking memes and reactions,",
+                                             "answered":  false
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Heneral Knowledge",
+                           "clues":  [
+                                         {
+                                             "points":  100,
+                                             "question":  "What language did many ancient Romans speak?",
+                                             "answer":  "Latin",
+                                             "image":  "",
+                                             "trivia":  "Latin influenced modern languages such as Italian, French, Spanish, Portuguese, and Romanian.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  200,
+                                             "question":  "What long river flows through Vienna, Budapest, and Belgrade?",
+                                             "answer":  "Danube River",
+                                             "image":  "",
+                                             "trivia":  "The Danube passes through or borders many European countries.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  300,
+                                             "question":  "What mountain range separates France and Spain?",
+                                             "answer":  "Pyrenees",
+                                             "image":  "",
+                                             "trivia":  "The Pyrenees form a natural border between France and Spain.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  400,
+                                             "question":  "What empire once ruled large parts of Central Europe and was led by the Habsburg family?",
+                                             "answer":  "Austro-Hungarian Empire",
+                                             "image":  "",
+                                             "trivia":  "The empire dissolved after World War I.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  500,
+                                             "question":  "What narrow strait separates Europe from Africa between Spain and Morocco?",
+                                             "answer":  "Strait of Gibraltar",
+                                             "image":  "",
+                                             "trivia":  "It connects the Atlantic Ocean and the Mediterranean Sea.",
+                                             "answered":  false
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Agham at Literatura",
+                           "clues":  [
+                                         {
+                                             "points":  100,
+                                             "question":  "What pigment gives color to human skin, hair, and eyes?",
+                                             "answer":  "Melanin",
+                                             "image":  "",
+                                             "trivia":  "Melanin also helps protect the skin from ultraviolet radiation from the Sun.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  200,
+                                             "question":  "What is the closest star to our Sun?",
+                                             "answer":  "Proxima Centauri",
+                                             "image":  "",
+                                             "trivia":  "Proxima Centauri is part of the Alpha Centauri star system and is about 4.24 light-years away",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  300,
+                                             "question":  "Who was the first person to win Nobel Prizes in two different scientific fields?",
+                                             "answer":  "Marie Curie",
+                                             "image":  "",
+                                             "trivia":  "Polish-French scientist won Nobel Prizes for work connected to radioactivity",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  400,
+                                             "question":  "Which science fiction classic was written by Mary Shelley?",
+                                             "answer":  "Frankenstein",
+                                             "image":  "",
+                                             "trivia":  "Frankenstein is often considered the birth of science fiction.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  500,
+                                             "question":  "Which author wrote The Metamorphosis, where Gregor Samsa wakes up transformed into an insect-like creature?",
+                                             "answer":  "Franz Kafka",
+                                             "image":  "",
+                                             "trivia":  "Kafka\u0027s name inspired the word Kafkaesque, used for strange, confusing, or oppressive situations.",
+                                             "answered":  false
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Viva La France",
+                           "clues":  [
+                                         {
+                                             "points":  100,
+                                             "question":  "Which French region is famous for sparkling wine that can legally use its name?",
+                                             "answer":  "Champagne",
+                                             "image":  "",
+                                             "trivia":  "Sparkling wine must come from the Champagne region to use the name Champagne under protected rules.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  200,
+                                             "question":  "What French aircraft manufacturer is part of the company behind the A320 and A380 planes?",
+                                             "answer":  "Airbus",
+                                             "image":  "",
+                                             "trivia":  "Airbus has major roots in France and became one of the world�s biggest aircraft makers.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  300,
+                                             "question":  "What French cosmetics company is known for the slogan �Because you�re worth it�?",
+                                             "answer":  "L�Oreal",
+                                             "image":  "",
+                                             "trivia":  "L�Oreal was founded in France in 1909 and became one of the world�s largest beauty companies.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  400,
+                                             "question":  "What mountain is the highest peak in the Alps and Western Europe?",
+                                             "answer":  "Mont Blanc",
+                                             "image":  "",
+                                             "trivia":  "Mont Blanc sits near the border of France and Italy.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  500,
+                                             "question":  "What French island in the Mediterranean is known as the birthplace of Napoleon Bonaparte?",
+                                             "answer":  "Corsica",
+                                             "image":  "",
+                                             "trivia":  "Napoleon was born in Ajaccio, Corsica, in 1769.",
+                                             "answered":  false
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Piktyur2",
+                           "clues":  [
+                                         {
+                                             "points":  100,
+                                             "question":  "What brand does this picture clue suggest?",
+                                             "answer":  "Jollibee",
+                                             "image":  "assets/picture-clues/jollibee-inspired.svg",
+                                             "trivia":  "The clue uses red, yellow, fast food, and a bee-like mascot shape without copying the actual logo.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  200,
+                                             "question":  "What brand does this picture clue suggest?",
+                                             "answer":  "Starbucks",
+                                             "image":  "assets/picture-clues/starbucks-inspired.svg",
+                                             "trivia":  "The clue uses a green cafe palette and a round sea-themed emblem shape.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  300,
+                                             "question":  "What brand does this picture clue suggest?",
+                                             "answer":  "McDonald\u0027s",
+                                             "image":  "assets/picture-clues/mcdonalds-inspired.svg",
+                                             "trivia":  "The clue uses a red burger shop and golden arch-like architecture without copying the logo.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  400,
+                                             "question":  "What brand does this picture clue suggest?",
+                                             "answer":  "Shopee",
+                                             "image":  "assets/picture-clues/shopee-inspired.svg",
+                                             "trivia":  "The clue uses an orange mobile shopping bag and online sale elements.",
+                                             "answered":  false
+                                         },
+                                         {
+                                             "points":  500,
+                                             "question":  "What brand does this picture clue suggest?",
+                                             "answer":  "Louis Vuitton",
+                                             "image":  "assets/picture-clues/louis-vuitton-inspired.svg",
+                                             "trivia":  "The clue uses a luxury travel trunk and monogram-inspired pattern without real brand letters.",
+                                             "answered":  false
+                                         }
+                                     ]
+                       }
+                   ]
+}
